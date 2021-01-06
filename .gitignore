@@ -1,2 +1,4 @@
 .idea
 CellMachine.iml
+.DS_Store
+out/
